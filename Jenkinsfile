@@ -1,4 +1,4 @@
-node {
+node("windows") {
     checkout scm
 
     docker.withRegistry('https://registry.hub.docker.com', 'dockerHub') {
