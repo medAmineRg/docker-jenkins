@@ -1,0 +1,14 @@
+{
+  "name": "nodocjen",
+  "version": "1.0.0",
+  "description": "learn node with docker and jenkins",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "mohamed amine rguig",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
